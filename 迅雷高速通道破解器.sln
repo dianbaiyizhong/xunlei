@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "迅雷高速通道破解器", "迅雷高速通道破解器\迅雷高速通道破解器.csproj", "{DF5B5940-4054-47BC-A9E5-1B8731ECF9CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5B5940-4054-47BC-A9E5-1B8731ECF9CB}.Debug|x86.ActiveCfg = Debug|x86
+		{DF5B5940-4054-47BC-A9E5-1B8731ECF9CB}.Debug|x86.Build.0 = Debug|x86
+		{DF5B5940-4054-47BC-A9E5-1B8731ECF9CB}.Release|x86.ActiveCfg = Release|x86
+		{DF5B5940-4054-47BC-A9E5-1B8731ECF9CB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

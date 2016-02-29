@@ -1,0 +1,13 @@
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\obj\x86\Debug\迅雷高速通道破解器.csprojResolveAssemblyReference.cache
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\obj\x86\Debug\迅雷高速通道破解器.Properties.Resources.resources
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\obj\x86\Debug\迅雷高速通道破解器.csproj.GenerateResource.Cache
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\bin\Debug\迅雷高速通道破解器.exe
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\bin\Debug\迅雷高速通道破解器.pdb
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\obj\x86\Debug\迅雷高速通道破解器.exe
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\obj\x86\Debug\迅雷高速通道破解器.pdb
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\bin\Debug\迅雷高速通道破解器.exe.config
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\obj\x86\Debug\迅雷高速通道破解器.Main.resources
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\bin\Debug\迅雷高速通道破解器.exe.manifest
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\bin\Debug\迅雷高速通道破解器.application
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\obj\x86\Debug\迅雷高速通道破解器.exe.manifest
+M:\myproject\迅雷高速通道破解器\迅雷高速通道破解器\obj\x86\Debug\迅雷高速通道破解器.application
